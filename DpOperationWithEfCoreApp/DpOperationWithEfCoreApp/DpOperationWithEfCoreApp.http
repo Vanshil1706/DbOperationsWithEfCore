@@ -1,0 +1,6 @@
+@DpOperationWithEfCoreApp_HostAddress = http://localhost:5269
+
+GET {{DpOperationWithEfCoreApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
